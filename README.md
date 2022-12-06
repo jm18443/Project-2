@@ -6,3 +6,4 @@
 - DATA CLEANING
 - 3 to 2 Findings
 - Report
+- README
