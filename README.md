@@ -2,7 +2,7 @@
 
 --TO DO
 
--ERD
--DATA CLEANING
--3 to 2 Findings
+- ERD
+- DATA CLEANING
+- 3 to 2 Findings
 - Report
