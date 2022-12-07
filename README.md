@@ -19,5 +19,5 @@ Datasets used
 - Filename: dc-wikia-data       Extension: csv
 - Filename: marvel-wikia-data       Extension: csv
 
-- https://data.world/fivethirtyeight/comic-characters/workspace/project-summary?agentid=fivethirtyeight&datasetid=comic-characters
+- https://data.world/fivethirtyeight/comic-characters
 
