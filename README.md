@@ -4,7 +4,7 @@ Group Name:
 SuperWranglers
 
 Team Members: 
-Jordon Moses, Madison Lusane, Marquesia Atwater
+Madison Lusane, Jordon Moses, Marquesia Atwater
 
 Project Description/Outline:
 A look into how heroes and villains within different hero univereses have changed in apeerances and creation.
